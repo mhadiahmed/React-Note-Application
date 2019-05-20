@@ -1,3 +1,9 @@
+## Bulletin Board application build with React 
+![project view ](https://github.com/mhadiahmed/React-Note-Application/blob/master/img/React%20App.png)
+
+
+**Soon will be implemented with Django**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
