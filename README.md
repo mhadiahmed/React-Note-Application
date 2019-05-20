@@ -1,4 +1,4 @@
-## Bulletin Board application build with React 
+## Stick  Note application build with React 
 ![project view ](https://github.com/mhadiahmed/React-Note-Application/blob/master/img/React%20App.png)
 
 
